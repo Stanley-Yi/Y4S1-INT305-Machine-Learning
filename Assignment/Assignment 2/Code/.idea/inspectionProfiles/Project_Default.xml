@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="easydict" />
+            <item index="1" class="java.lang.String" itemvalue="tensorflow" />
+            <item index="2" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="3" class="java.lang.String" itemvalue="tensorflow_addons" />
+            <item index="4" class="java.lang.String" itemvalue="thop" />
+            <item index="5" class="java.lang.String" itemvalue="shutil" />
+            <item index="6" class="java.lang.String" itemvalue="math" />
+            <item index="7" class="java.lang.String" itemvalue="pickle" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dict.__getitem__" />
+          <option value="typing.Iterator.__getitem__" />
+          <option value="list.__sub__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
